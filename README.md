@@ -7,7 +7,7 @@ https://www.ptt.cc/bbs/Gossiping/index.html
 
 output_file:output.json
 format:
-{
+{   
     "title": "文章標題",
     "author": "abc",
     "date": " 4/12",
